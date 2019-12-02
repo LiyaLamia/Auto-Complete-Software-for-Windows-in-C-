@@ -1,0 +1,18 @@
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\bin\Debug\key unlogger.exe.config
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\obj\Debug\key unlogger.exe
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\obj\Debug\key unlogger.pdb
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\bin\Debug\key unlogger.exe
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\bin\Debug\key unlogger.pdb
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\obj\Debug\key unlogger.csprojResolveAssemblyReference.cache
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\obj\Debug\key_unlogger.Form1.resources
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\obj\Debug\key_unlogger.Properties.Resources.resources
+C:\Users\blank\documents\visual studio 2015\Projects\key unlogger\key unlogger\obj\Debug\key unlogger.csproj.GenerateResource.Cache
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\bin\Debug\key unlogger.exe.config
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\obj\Debug\key unlogger.exe
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\obj\Debug\key unlogger.pdb
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\bin\Debug\key unlogger.exe
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\bin\Debug\key unlogger.pdb
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\obj\Debug\key unlogger.csprojResolveAssemblyReference.cache
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\obj\Debug\key_unlogger.Properties.Resources.resources
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\obj\Debug\key unlogger.csproj.GenerateResource.Cache
+E:\work\project 3.2\Android\soft\liya\key unlogger\key unlogger\obj\Debug\key_unlogger.Form1.resources
